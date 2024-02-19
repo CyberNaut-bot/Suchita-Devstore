@@ -1,10 +1,10 @@
 # This is a copy of my Website which can be easily loaded in localhost 
 
 ## For running the client folder - 
-### npm start
+#### command - npm start
 
 ## For running the api folder - 
-### npm run develop
+#### command - npm run develop
 
 
 
